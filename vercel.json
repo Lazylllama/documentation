@@ -94,11 +94,6 @@
       "destination": "https://lationscripts.com/docs/chop-shop/faqs",
       "permanent": true
     },
-    {
-      "source": "/chop-shop/guides/migrate",
-      "destination": "https://lationscripts.com/docs",
-      "permanent": true
-    },
 
     {
       "source": "/money-wash/install",
