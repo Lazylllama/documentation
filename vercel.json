@@ -1,0 +1,223 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://lationscripts.com/docs",
+      "permanent": true
+    },
+
+    {
+      "source": "/weed-growing/install",
+      "destination": "https://lationscripts.com/docs/weed/install",
+      "permanent": true
+    },
+    {
+      "source": "/weed-growing/exports",
+      "destination": "https://lationscripts.com/docs/weed/exports",
+      "permanent": true
+    },
+    {
+      "source": "/weed-growing/common",
+      "destination": "https://lationscripts.com/docs/weed/faqs",
+      "permanent": true
+    },
+    {
+      "source": "/weed-growing/guides/props",
+      "destination": "https://lationscripts.com/docs",
+      "permanent": true
+    },
+    {
+      "source": "/weed-growing/guides/ox_core",
+      "destination": "https://lationscripts.com/docs",
+      "permanent": true
+    },
+
+    {
+      "source": "/coke-processing/install",
+      "destination": "https://lationscripts.com/docs/coke/install",
+      "permanent": true
+    },
+    {
+      "source": "/coke-processing/exports",
+      "destination": "https://lationscripts.com/docs/coke/exports",
+      "permanent": true
+    },
+    {
+      "source": "/coke-processing/common",
+      "destination": "https://lationscripts.com/docs/coke/faqs",
+      "permanent": true
+    },
+    {
+      "source": "/coke-processing/guides/props",
+      "destination": "https://lationscripts.com/docs",
+      "permanent": true
+    },
+    {
+      "source": "/coke-processing/guides/ox_core",
+      "destination": "https://lationscripts.com/docs",
+      "permanent": true
+    },
+
+    {
+      "source": "/meth-crafting/install",
+      "destination": "https://lationscripts.com/docs/meth/install",
+      "permanent": true
+    },
+    {
+      "source": "/meth-crafting/exports",
+      "destination": "https://lationscripts.com/docs/meth/exports",
+      "permanent": true
+    },
+    {
+      "source": "/meth-crafting/common",
+      "destination": "https://lationscripts.com/docs/meth/faqs",
+      "permanent": true
+    },
+    {
+      "source": "/meth-crafting/guides/ox_core",
+      "destination": "https://lationscripts.com/docs",
+      "permanent": true
+    },
+
+    {
+      "source": "/chop-shop/install",
+      "destination": "https://lationscripts.com/docs/chop-shop/install",
+      "permanent": true
+    },
+    {
+      "source": "/chop-shop/exports",
+      "destination": "https://lationscripts.com/docs/chop-shop/exports",
+      "permanent": true
+    },
+    {
+      "source": "/chop-shop/common",
+      "destination": "https://lationscripts.com/docs/chop-shop/faqs",
+      "permanent": true
+    },
+
+    {
+      "source": "/money-wash/install",
+      "destination": "https://lationscripts.com/docs/money-laundering/install",
+      "permanent": true
+    },
+    {
+      "source": "/money-wash/exports",
+      "destination": "https://lationscripts.com/docs/money-laundering/exports",
+      "permanent": true
+    },
+    {
+      "source": "/money-wash/common",
+      "destination": "https://lationscripts.com/docs/money-laundering/faqs",
+      "permanent": true
+    },
+
+    {
+      "source": "/metal-detecting/install",
+      "destination": "https://lationscripts.com/docs/metal-detecting/install",
+      "permanent": true
+    },
+    {
+      "source": "/metal-detecting/exports",
+      "destination": "https://lationscripts.com/docs/metal-detecting/exports",
+      "permanent": true
+    },
+    {
+      "source": "/metal-detecting/common",
+      "destination": "https://lationscripts.com/docs/metal-detecting/faqs",
+      "permanent": true
+    },
+
+    {
+      "source": "/scuba-diving/install",
+      "destination": "https://lationscripts.com/docs/scuba-diving/install",
+      "permanent": true
+    },
+    {
+      "source": "/scuba-diving/exports",
+      "destination": "https://lationscripts.com/docs/scuba-diving/exports",
+      "permanent": true
+    },
+    {
+      "source": "/scuba-diving/common",
+      "destination": "https://lationscripts.com/docs/scuba-diving/faqs",
+      "permanent": true
+    },
+
+    {
+      "source": "/drug-selling/install",
+      "destination": "https://lationscripts.com/docs/drug-sales/install",
+      "permanent": true
+    },
+    {
+      "source": "/drug-selling/exports",
+      "destination": "https://lationscripts.com/docs/drug-sales/exports",
+      "permanent": true
+    },
+    {
+      "source": "/drug-selling/common",
+      "destination": "https://lationscripts.com/docs/drug-sales/faqs",
+      "permanent": true
+    },
+
+    {
+      "source": "/modern-ui/install",
+      "destination": "https://lationscripts.com/docs/modern-ui/install",
+      "permanent": true
+    },
+    {
+      "source": "/modern-ui/migration",
+      "destination": "https://lationscripts.com/docs/modern-ui/install",
+      "permanent": true
+    },
+    {
+      "source": "/modern-ui/config",
+      "destination": "https://lationscripts.com/docs/modern-ui/convars",
+      "permanent": true
+    },
+    {
+      "source": "/modern-ui/components/alert-dialog",
+      "destination": "https://lationscripts.com/docs/modern-ui/components/alert",
+      "permanent": true
+    },
+    {
+      "source": "/modern-ui/components/input-dialog",
+      "destination": "https://lationscripts.com/docs/modern-ui/components/input",
+      "permanent": true
+    },
+    {
+      "source": "/modern-ui/components/menu",
+      "destination": "https://lationscripts.com/docs/modern-ui/components/menu",
+      "permanent": true
+    },
+    {
+      "source": "/modern-ui/components/notification",
+      "destination": "https://lationscripts.com/docs/modern-ui/components/notify",
+      "permanent": true
+    },
+    {
+      "source": "/modern-ui/components/skill-check",
+      "destination": "https://lationscripts.com/docs/modern-ui/components/minigames/skill-check",
+      "permanent": true
+    },
+    {
+      "source": "/modern-ui/components/progress-bar",
+      "destination": "https://lationscripts.com/docs/modern-ui/components/progress",
+      "permanent": true
+    },
+    {
+      "source": "/modern-ui/components/radial-menu",
+      "destination": "https://lationscripts.com/docs/modern-ui/components/radial",
+      "permanent": true
+    },
+    {
+      "source": "/modern-ui/components/text-ui",
+      "destination": "https://lationscripts.com/docs/modern-ui/components/text-ui",
+      "permanent": true
+    },
+    {
+      "source": "/modern-ui/components/timeline",
+      "destination": "https://lationscripts.com/docs/modern-ui/components/timeline",
+      "permanent": true
+    }
+  ]
+}
